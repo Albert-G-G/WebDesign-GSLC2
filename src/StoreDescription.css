@@ -1,0 +1,10 @@
+.store-description {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .store-description p {
+    max-width: 600px;
+    margin: 0 auto;
+    color: #555;
+  }
