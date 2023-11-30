@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebDesign-GSLC2/static/css/main.249b059a.css",
+    "main.js": "/WebDesign-GSLC2/static/js/main.63b48b95.js",
+    "static/js/787.ee02e34c.chunk.js": "/WebDesign-GSLC2/static/js/787.ee02e34c.chunk.js",
+    "index.html": "/WebDesign-GSLC2/index.html",
+    "main.249b059a.css.map": "/WebDesign-GSLC2/static/css/main.249b059a.css.map",
+    "main.63b48b95.js.map": "/WebDesign-GSLC2/static/js/main.63b48b95.js.map",
+    "787.ee02e34c.chunk.js.map": "/WebDesign-GSLC2/static/js/787.ee02e34c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.249b059a.css",
+    "static/js/main.63b48b95.js"
+  ]
+}
